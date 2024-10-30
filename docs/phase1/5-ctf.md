@@ -43,7 +43,7 @@ Optional but highly recommended books that you can use to learn more Linux and h
 
 ## Challenge 2: The Secret File
 
-**Objective:** Locate a file with the word "secret" in its name anywhere in the /home/ctf_user directory.
+**Objective:** Locate a file with the word "secret" in its name anywhere in the /home/ec2-user directory.
 
 **Skills tested:**
 
